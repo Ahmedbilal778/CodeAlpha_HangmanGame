@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CodeAlpha Hangman Game
 
@@ -39,3 +40,6 @@ CodeAlpha Python Programming Internship
 
 ## Author
 Ahmed Bilal
+=======
+# CodeAlpha_HangmanGame
+>>>>>>> 4df8d143ebd5472d9a1a711d250e5aa9128d288b
